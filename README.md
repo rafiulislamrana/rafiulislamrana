@@ -1,6 +1,6 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/nth-celerity-309707.appspot.com/o/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?alt=media&token=6234dce1-c414-42d4-ab8b-8eb1f3a73579)]
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/nth-celerity-309707.appspot.com/o/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?alt=media&token=6234dce1-c414-42d4-ab8b-8eb1f3a73579)](https://linkedin.com/in/rafiulislamrana)
 <h1 align="center">Hi 👋, I'm Rafiul Islam Rana</h1>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://firebasestorage.googleapis.com/v0/b/nth-celerity-309707.appspot.com/o/d4bog6o-a4f56421-bf32-4ea4-bdde-71e6de95d589.gif?alt=media&token=51bc0a73-73a0-48e5-9796-3cc2b0db1330)">
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/nth-celerity-309707.appspot.com/o/d4bog6o-a4f56421-bf32-4ea4-bdde-71e6de95d589.gif?alt=media&token=51bc0a73-73a0-48e5-9796-3cc2b0db1330">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiulislamrana&label=Profile%20views&color=0e75b6&style=flat" alt="rafiulislamrana" /> </p>
 
