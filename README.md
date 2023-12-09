@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/rafiulislamrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafiulislamrana" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
